@@ -1,5 +1,5 @@
 [package]
-name = "port-sniffer1"
+name = "port-sniffer-simple"
 version = "0.1.0"
 edition = "2021"
 
