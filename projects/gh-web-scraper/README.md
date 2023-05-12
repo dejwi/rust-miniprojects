@@ -11,6 +11,8 @@ cargo run -p gh-web-scraper
 - scrapes profiles about (README.md) for an email and linkedin
 
 ## Preview
+<img width="476" alt="image" src="https://github.com/dejwi/rust-miniprojects/assets/80927085/1c9868e3-286a-4493-b08d-91fe237b2783">
+
 
 ## Crates used
 - reqwest
