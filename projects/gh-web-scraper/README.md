@@ -10,7 +10,7 @@ cargo run -p gh-web-scraper
 - gets display name, followers + follows count
 - scrapes profiles about (README.md) for an email and linkedin
 
-## Preview
+## Example
 <img width="476" alt="image" src="https://github.com/dejwi/rust-miniprojects/assets/80927085/1c9868e3-286a-4493-b08d-91fe237b2783">
 
 
