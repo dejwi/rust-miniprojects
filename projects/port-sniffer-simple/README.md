@@ -3,7 +3,7 @@ Scans ip address for open ports
 
 ## Run
 ```shell
-cargo run -p port-sniffer-simple -- <ARGS>
+cargo run -p port-sniffer-simple -- -i <IP_ADDRESS> <OPTIONAL_ARGS>
 ```
 
 ## Args
